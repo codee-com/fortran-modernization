@@ -85,6 +85,30 @@ standards evolve and new best practices emerge.
 
 10. [Proper C/C++ interoperability](Recommendations/R10_CInteroperability.md).
 
+## Contributing
+
+We welcome and encourage contributions to the Top 10 Recommendations! Here's
+how you can get involved:
+
+1. **Join the discussion:**
+
+    Got ideas, questions, or suggestions? Head over to our [GitHub
+    Discussions](https://github.com/codee-com/fortran-modernization/discussions).
+    It's the perfect place for open-ended conversations and brainstorming!
+
+2. **Report issues:**
+
+    Found inacuracies, unclear explanations, or other problems? Please open an
+    [**Issue**](https://github.com/codee-com/fortran-modernization/issues).
+    Detailed reports help us quickly improve the quality of the project!
+
+3. **Submit pull requests:**
+
+    Interested in solving any issues? Feel free to fork the repository, make
+    your changes, and submit a [Pull
+    Request](https://github.com/codee-com/fortran-modernization/pulls). We'd
+    love to see your contributions!
+
 ## References
 
 - [1] Fortran Community. "Fortran Best Practices". Accessed: Jun. 06, 2024.
