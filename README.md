@@ -26,8 +26,9 @@ C](https://wiki.sei.cmu.edu/confluence/display/c) and
 
 Building on these foundations, this project aims to start a similar
 community-driven initiative focused on modern Fortran software development.
-Leveraging the existing [Open Catalog on Best Practices for Modernization and
-Performance](https://github.com/codee-com/open-catalog/), we seek to establish
+Leveraging the existing [Open Catalog of Coding Guidelines for Correctness,
+Modernization, Security, and
+Optimization](https://github.com/codee-com/open-catalog/), we seek to establish
 a dedicated set of Top 10 Recommendations and related checks to address the
 specific challenges of Fortran Modernization.
 
@@ -157,6 +158,6 @@ how you can get involved:
   new or even feasible?". Accessed: Jun. 06, 2024. [Online] Available:
   https://fortran-lang.discourse.group/t/our-initiative-to-publish-the-fortran-lang-top-10-recommendation-for-fortran-modernization-is-it-really-new-or-even-feasible/7774
 
-- [13] GitHub Collaborators. "Open Catalog of Best Practices for Modernization
-  and Optimization". Accessed: Jun. 06, 2024. [Online] Available:
-  https://github.com/codee-com/open-catalog
+- [13] GitHub Collaborators. "Open Catalog of Coding Guidelines for
+  Correctness, Modernization, Security, and Optimization". Accessed: Feb. 18,
+  2025. [Online] Available: https://github.com/codee-com/open-catalog

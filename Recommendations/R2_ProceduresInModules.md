@@ -11,8 +11,8 @@ incremental compilation to reduce build times.
 ## Checks
 
 - [PWR068](https://github.com/codee-com/open-catalog/blob/main/Checks/PWR068):
-  Encapsulate external procedures within modules to avoid the risks of calling
-  implicit interfaces.
+  Encapsulate procedures within modules to avoid the risks of calling implicit
+  interfaces.
 
 - _Planned: Consider moving the module's procedure implementations into a
   separate submodule._

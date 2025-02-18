@@ -9,6 +9,9 @@ environments.
 
 ## Checks
 
+- [PWR075](https://github.com/codee-com/open-catalog/blob/main/Checks/PWR075):
+  Avoid using GNU Fortran extensions.
+
 - _Planned: Tune compiler flags to mark features removed from recent Fortran
   standards._
 
