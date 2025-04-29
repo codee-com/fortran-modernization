@@ -11,8 +11,8 @@ and intent of code statements beyond previous recommendations.
   Explicitly declare pure functions.
 
 - [PWR072](https://github.com/codee-com/open-catalog/blob/main/Checks/PWR072):
-  Split the variable initialization from the declaration to prevent the
-  implicit 'save' behavior.
+  Explicitly declare the 'save' attribute or split the variable initialization
+  to prevent unintended behavior.
 
 - _Planned: Prefer variable initializations at declaration instead of data or
   block data statements._

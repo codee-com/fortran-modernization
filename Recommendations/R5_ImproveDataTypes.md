@@ -11,7 +11,7 @@ arrays for safer memory handling.
 ## Checks
 
 - [PWR007](https://github.com/codee-com/open-catalog/blob/main/Checks/PWR007):
-  Disable implicit declaration of variables.
+  Disable implicit declaration of variables and procedures.
 
 - [PWR071](https://github.com/codee-com/open-catalog/blob/main/Checks/PWR071):
   Prefer real(kind=kind_value) for declaring consistent floating types.
